@@ -20,3 +20,7 @@ python manage.py runserver
     HTML CSS Support：HTML 基础插件
     Path Intellisense：路径补全插件
 
+## superuser
+
+ll_admin   hxxz
+
